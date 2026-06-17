@@ -1,0 +1,242 @@
+description,category
+Zomato,Food
+Swiggy,Food
+McDonalds,Food
+KFC,Food
+Dominos,Food
+PizzaHut,Food
+Subway,Food
+CafeCoffeeDay,Food
+Starbucks,Food
+HotelSaravana,Food
+DhabaExpress,Food
+BiryaniHouse,Food
+ChaiPoint,Food
+IrctcFood,Food
+ZumZumFood,Food
+MataRiBreakfast,Food
+HiTechChai,Food
+LocalDhaba,Food
+RoadSideTea,Food
+FoodStall,Food
+TiffinService,Food
+MessPayment,Food
+CanteenFood,Food
+BreadOmelette,Food
+ChickenShop,Food
+MuttonShop,Food
+VegRestaurant,Food
+NonVegRestaurant,Food
+IceCreamParlour,Food
+JuiceShop,Food
+PaniPuriWala,Food
+ChowmeinStall,Food
+food delivery app,Food
+restaurant payment,Food
+meal order online,Food
+breakfast shop,Food
+tiffin center,Food
+street food payment,Food
+Uber,Travel
+Ola,Travel
+Rapido,Travel
+IndiGo,Travel
+AirIndia,Travel
+SpiceJet,Travel
+Irctc,Travel
+MakeMyTrip,Travel
+RedBus,Travel
+GoIbibo,Travel
+MetroCard,Travel
+PetrolPump,Travel
+HpPetrol,Travel
+BharatPetrol,Travel
+IndianOil,Travel
+UberMoto,Travel
+AutoRickshaw,Travel
+CabPayment,Travel
+BusTicket,Travel
+TrainTicket,Travel
+FlightTicket,Travel
+TollPayment,Travel
+ParkingFee,Travel
+RailwayStation,Travel
+AirportPayment,Travel
+bike ride payment,Travel
+cab booking app,Travel
+fuel station payment,Travel
+bus ticket booking,Travel
+train ticket irctc,Travel
+auto fare upi,Travel
+Amazon,Shopping
+Flipkart,Shopping
+Meesho,Shopping
+Myntra,Shopping
+Ajio,Shopping
+Nykaa,Shopping
+Ekart,Shopping
+Snapdeal,Shopping
+FirstCry,Shopping
+Tatacliq,Shopping
+ClothesShop,Shopping
+FootwearStore,Shopping
+MobileShop,Shopping
+ElectronicsStore,Shopping
+FurnitureShop,Shopping
+GarmentStore,Shopping
+TailorPayment,Shopping
+WatchShop,Shopping
+JewelleryStore,Shopping
+online shopping payment,Shopping
+clothes purchase,Shopping
+electronics store,Shopping
+mobile accessories,Shopping
+footwear shop,Shopping
+Netflix,Entertainment
+Spotify,Entertainment
+Hotstar,Entertainment
+AmazonPrime,Entertainment
+YoutubePremium,Entertainment
+Pvr,Entertainment
+Inox,Entertainment
+BookMyShow,Entertainment
+SonyLiv,Entertainment
+Zee5,Entertainment
+Jiocinema,Entertainment
+GamePurchase,Entertainment
+SteamPayment,Entertainment
+PlayStationStore,Entertainment
+ArcadeGame,Entertainment
+MovieTicket,Entertainment
+ConcertTicket,Entertainment
+streaming subscription,Entertainment
+movie ticket booking,Entertainment
+ott platform subscription,Entertainment
+gaming payment,Entertainment
+GoldGym,Health
+CultFit,Health
+PharmEasy,Health
+Netmeds,Health
+ApolloPharmacy,Health
+MedPlus,Health
+Practo,Health
+HealthKart,Health
+Lenskart,Health
+DoctorConsultation,Health
+HospitalBill,Health
+MsPoorna Arogya,Health
+ClinicFees,Health
+DentalClinic,Health
+PathologyLab,Health
+BloodTest,Health
+MedicalStore,Health
+AyurvedaShop,Health
+YogaClass,Health
+pharmacy payment,Health
+hospital bill,Health
+medical store,Health
+doctor fees,Health
+diagnostic lab,Health
+gym membership,Health
+Jio,Bills
+Airtel,Bills
+Vodafone,Bills
+BsnlRecharge,Bills
+ElectricityBill,Bills
+WaterBill,Bills
+GasBill,Bills
+TataPower,Bills
+DthRecharge,Bills
+TataSky,Bills
+BroadbandBill,Bills
+WifiPayment,Bills
+InsurancePremium,Bills
+CreditCardBill,Bills
+LoanEmi,Bills
+MobileRecharge,Bills
+PostpaidBill,Bills
+utility bill payment,Bills
+electricity board,Bills
+mobile recharge,Bills
+broadband wifi bill,Bills
+gas cylinder booking,Bills
+insurance premium,Bills
+Dmart,Groceries
+BigBasket,Groceries
+Blinkit,Groceries
+Grofers,Groceries
+JioMart,Groceries
+SwigyInstamart,Groceries
+ZeptoApp,Groceries
+ReliantFresh,Groceries
+MoreSupermarket,Groceries
+SpencerRetail,Groceries
+LocalKirana,Groceries
+VegetableVendor,Groceries
+MilkBooth,Groceries
+GeneralStore,Groceries
+ProvisionsShop,Groceries
+RiceStore,Groceries
+DailyNeeds,Groceries
+KiranaStore,Groceries
+grocery store payment,Groceries
+vegetable market,Groceries
+kirana shop,Groceries
+milk delivery,Groceries
+daily essentials,Groceries
+Coursera,Education
+Udemy,Education
+Byju,Education
+UnacademyApp,Education
+VedantuLive,Education
+CollegeFees,Education
+BookStore,Education
+LibraryFees,Education
+TuitionFees,Education
+SchoolFees,Education
+ExamFees,Education
+CoachingCenter,Education
+OnlineCourse,Education
+StudyMaterial,Education
+UniversityFees,Education
+online course payment,Education
+college tuition fees,Education
+coaching institute,Education
+exam registration fee,Education
+study books purchase,Education
+SentMoney,Transfer
+ReceivedMoney,Transfer
+UpiTransfer,Transfer
+BankTransfer,Transfer
+FriendPayment,Transfer
+FamilyTransfer,Transfer
+RentPayment,Transfer
+LandlordRent,Transfer
+PgRent,Transfer
+HostelFees,Transfer
+PersonalTransfer,Transfer
+MoneyReturn,Transfer
+SplitBill,Transfer
+GroupPayment,Transfer
+sent money to friend,Transfer
+rent payment landlord,Transfer
+personal upi transfer,Transfer
+money returned,Transfer
+split bill payment,Transfer
+Zerodha,Investment
+Groww,Investment
+Upstox,Investment
+MutualFund,Investment
+SipPayment,Investment
+GoldBond,Investment
+NpsContribution,Investment
+PpfDeposit,Investment
+LicPremium,Investment
+StockPurchase,Investment
+FdBooking,Investment
+RdDeposit,Investment
+mutual fund sip,Investment
+stock market investment,Investment
+fd deposit bank,Investment
+gold investment,Investment
+insurance premium payment,Investment
