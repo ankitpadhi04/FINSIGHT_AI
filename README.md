@@ -1,6 +1,6 @@
 # FinSight AI
 
-Demo app: [finsight-ai.streamlit.app]([https://your-app-url.streamlit.app](https://finsightai-iascglfwxkzknnvoz3qg2p.streamlit.app/)
+Demo app: [finsight-ai.streamlit.app]([https://your-app-url.streamlit.app](https://finsightai-iascglfwxkzknnvoz3qg2p.streamlit.app/))
 
 A personal finance analysis web application that processes UPI payment statements and delivers AI-powered spending insights, risk assessment, and actionable savings recommendations.
 
